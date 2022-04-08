@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shubham Somani 
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning paython
+- 💞️ I’m looking to collaborate on human ressources development compnay
+- 📫 How to reach me: Shubhamsomani98@gmail.com
